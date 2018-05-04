@@ -74,7 +74,7 @@ Se obtuvierón los siguientes datos para 10 iteraciones, redondeado a 6 decimale
 |   0.9             | 4.169601        |
 |   0.999999        | 4.718279        |
 
-El error de truncamiento de este resultado es h<sup>-6</sup>)
+El error de truncamiento de este resultado es 10h<sup>-6</sup>
 
 Gráfica
 
