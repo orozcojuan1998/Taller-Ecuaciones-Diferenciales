@@ -74,7 +74,7 @@ Se obtuvierón los siguientes datos para 10 iteraciones, redondeado a 6 decimale
 
 Gráfica
 
-
+![Screenshot](res.jpg)
                                 
 
                                 
