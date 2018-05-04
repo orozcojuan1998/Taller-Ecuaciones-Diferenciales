@@ -4,7 +4,7 @@ Taller 04/05/2018
 #### Obtenga diez puntos de la solución de la ecuación, utilizando el método de Taylor (los tres primeros términos)con h=0.1
                                 dy/dx - (x+y) = 1-x^2 ; y(0)= 1  
 
-Se utilizo el siguiente código en python resultando en el siguiente codigo :   
+Se implemento el método de Taylor en python, resultando en el siguiente codigo :   
 
 ```python
 # -*- coding: utf-8 -*-
@@ -57,7 +57,23 @@ plt.show()
 
 ```  
 
-*Se obtuvierón los siguientes datos: *  
+Se obtuvierón los siguientes datos para 10 iteraciones, redondeado a 6 decimales:  
+
+|    x              |       y         | 
+|-------------------|-----------------|
+|   0.1             | 1.215170        |
+|   0.2             | 1.461403        |
+|   0.3             | 1.739858        |
+|   0.4             | 2.051824        |
+|   0.5             | 2.398720        |
+|   0.6             | 2.782118        |
+|   0.7             | 3.203752        |
+|   0.8             | 3.665539        |
+|   0.9             | 4.169601        |
+|   0.999999        | 4.718279        |
+
+Gráfica
+
 
                                 
 
