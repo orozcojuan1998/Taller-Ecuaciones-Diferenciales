@@ -56,7 +56,7 @@ plt.show()
 
 
 ```  
-El error de truncamiento al ser 10 puntos sera O(h<sup>10</sup>)  
+El error de truncamiento al ser 10 puntos en cada paso será O(h<sup>10</sup>)  
 
 
 Se obtuvierón los siguientes datos para 10 iteraciones, redondeado a 6 decimales:  
@@ -73,6 +73,8 @@ Se obtuvierón los siguientes datos para 10 iteraciones, redondeado a 6 decimale
 |   0.8             | 3.665539        |
 |   0.9             | 4.169601        |
 |   0.999999        | 4.718279        |
+
+El error de truncamiento de este resultado es h<sup>-6</sup>)
 
 Gráfica
 
