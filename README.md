@@ -2,7 +2,7 @@
 Taller 04/05/2018
 
 #### Obtenga diez puntos de la solución de la ecuación, utilizando el método de Taylor (los tres primeros términos)con h=0.1
-                                *dy/dx - (x+y) = 1-x^2 ; y(0)= 1  *
+                                dy/dx - (x+y) = 1-x^2 ; y(0)= 1  
 * Se utilizo el siguiente código en python resultando en el siguiente codigo : *  
 
 ```
